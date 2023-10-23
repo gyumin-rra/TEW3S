@@ -3,7 +3,17 @@ This is a repository for draft paper "A Development of Continuous Warning System
 
 ## Development Requirements
 ### 1. Dataset
-In this research, we utilized [MIMIC(Medical Information Mart for Intensive Care)-IV version 2.0](https://physionet.org/content/mimiciv/2.0/) 
+In this research, we utilized [MIMIC(Medical Information Mart for Intensive Care)-IV version 2.0](https://physionet.org/content/mimiciv/2.0/). Note that the dataset is publicly available only for credentialized users in physionet. 
+### 2. Softwares
+TEW3S is developed using python, In order to run all preprocessing pipelines 
+
+| env_name   | version |
+|------------|---------|
+| python     | 3.8.3   |
+| numpy      | 1.19.2  |
+| matplotlib | 3.5.2   |
+| pandas     | 1.4.3   |
+| sklearn    | 1.1.1   |
 
 ---
 
