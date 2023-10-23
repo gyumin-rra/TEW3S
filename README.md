@@ -2,7 +2,7 @@
 This is a repository for draft paper "A Development of Continuous Warning System for Timely Identification of Septic Shock". TEW3S means Timely Early Warning System for Septic Shock, which is the resultant system proposed by the paper. The content of the respository is subject to change until the paper publication. 
 
 ## Development Requirements
-1. Dataset
+### 1. Dataset
 In this research, we utilized [MIMIC(Medical Information Mart for Intensive Care)-IV version 2.0](https://physionet.org/content/mimiciv/2.0/) 
 
 ---
