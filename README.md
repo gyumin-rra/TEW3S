@@ -5,15 +5,19 @@ This is a repository for draft paper "A Development of Continuous Warning System
 ### 1. Dataset
 In this research, we utilized [MIMIC(Medical Information Mart for Intensive Care)-IV version 2.0](https://physionet.org/content/mimiciv/2.0/). Note that the dataset is publicly available only for credentialized users in physionet. 
 ### 2. Softwares
-TEW3S is developed using python, In order to run all preprocessing pipelines 
-
-| env_name   | version |
-|------------|---------|
-| python     | 3.8.3   |
-| numpy      | 1.19.2  |
-| matplotlib | 3.5.2   |
-| pandas     | 1.4.3   |
-| sklearn    | 1.1.1   |
+TEW3S is developed using python and the python-based modules listed as below.  
+| environment name | version |
+|------------------|---------|
+| python           | 3.9.16  |
+| numpy            | 1.23.5  |
+| matplotlib       | 3.4.3   |
+| pandas           | 1.5.2   |
+| sklearn          | 1.2.0   |
+| IPython          | 8.10.0  |
+| catboost         | 1.1.1   |
+| lightgbm         | 3.2.1   |
+| xgboost          | 1.7.6   |
+| imblearn         | 0.10.1  |
 
 ---
 
